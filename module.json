@@ -8,5 +8,8 @@
 	"author": "EndlesNights",
 	"scripts": [
 		"wcube.js"
-	]
+	],
+	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
+	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/master/module.json",
+	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/master/ApertureScienceWCDice.zip"
 }
