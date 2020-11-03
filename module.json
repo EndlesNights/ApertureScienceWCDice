@@ -1,21 +1,11 @@
 {
 	"name": "wcube",
-	"title": "wcube",
-	"description": "Adds the ability to show a nice 3D dice simulation when a roll is made.",
-	"version": "3.0.0-final",
+	"title": "DsN - Weighted Companion Cube Dice Set",
+	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
+	"version": "1.0.0",
 	"minimumCoreVersion" : "0.7.2",
 	"compatibleCoreVersion" : "0.7.5",
-	"author": "Simone, JDW",
-	"authors": [
-		{
-			"name": "Simone",
-			"url": "https://discord.com/users/565475825785503755"
-		},
-		{
-			"name": "JDW",
-			"url": "https://discord.com/users/184744164049682433"
-		}
-	],
+	"author": "EndlesNights",
 	"scripts": [
 		"wcube.js"
 	]
