@@ -3,7 +3,7 @@
 
 * **Author**: EndlesNights#9000
 * **Version**: 1.0.0
-* **Foundry VTT Compatibility**: 0.7.2 to 0.7.5 (Havn't tried it with older versions)
+* **Foundry VTT Compatibility**: 0.7.2 to 0.7.5
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice!
 
