@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/Foundry-v0.7.5-informational)
+![](https://img.shields.io/badge/Foundry-v0.7.6-informational)
 ## ApertureScienceWCDice
 
 * **Author**: EndlesNights#9000
 * **Version**: 1.0.0
-* **Foundry VTT Compatibility**: 0.7.2 to 0.7.5
+* **Foundry VTT Compatibility**: 0.7.2 to 0.7.6
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice!
 
@@ -19,7 +19,7 @@ Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube t
 ## Installation
 ### Method 1
 * Open the Foundry application and click **"Install Module"** in the **"Add-On Modules"** tab.
-* Paste the following link: https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/master/module.json
+* Paste the following link: https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json
 * Click "Install"
 * Activate the module in your World using **Manage Modules** under the **Game Settings** tab.
 
