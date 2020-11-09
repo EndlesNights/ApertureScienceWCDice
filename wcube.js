@@ -48,5 +48,4 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 		modelFile: "modules/wcube/wcube_d20.glb",
 		system: "wcube"
 	});
-	
 });
