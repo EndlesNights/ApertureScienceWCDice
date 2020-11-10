@@ -5,7 +5,7 @@
 * **Version**: 1.0.0
 * **Foundry VTT Compatibility**: 0.7.2 to 0.7.6
 * **System Compatibility**: Universal
-* **Module Dependency**: Dice So Nice!
+* **Module Dependency**: Dice So Nice! Version 3.0.0+
 
 ### Link(s) to Module
 * [https://github.com/EndlesNights/ApertureScienceWCDice](https://github.com/EndlesNights/ApertureScienceWCDice)
