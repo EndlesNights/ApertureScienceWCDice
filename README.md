@@ -26,6 +26,8 @@ Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube t
 ### Method 2
 Extract the query.zip file to the public/modules directory. Use the `Manage Modules` in your World on the Settings tab of the sidebar on the right and then enable the `DsN - Weighted Companion Cube Dice Set` module.
 
+### Patch Notes
+
 **Version 1.0.0**
 
 Inistial release version.
