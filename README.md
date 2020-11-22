@@ -2,7 +2,7 @@
 ## ApertureScienceWCDice
 
 * **Author**: EndlesNights#9000
-* **Version**: 1.0.0
+* **Version**: 1.0.1
 * **Foundry VTT Compatibility**: 0.7.2 to 0.7.7
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice! Version 3.0.0+
