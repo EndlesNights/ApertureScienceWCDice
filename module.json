@@ -4,7 +4,7 @@
 	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
 	"version": "1.0.1",
 	"minimumCoreVersion" : "0.7.2",
-	"compatibleCoreVersion" : "0.7.7",
+	"compatibleCoreVersion" : "0.8.5",
 	"author": "EndlesNights",
 	"dependencies": [
 		{
