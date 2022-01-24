@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/Foundry-v0.8.5-informational)
+![](https://img.shields.io/badge/Foundry-v9.242-informational)
 ## ApertureScienceWCDice
 
 * **Author**: EndlesNights#9000
 * **Version**: 1.0.2
-* **Foundry VTT Compatibility**: 0.7.2 to 0.8.5
+* **Foundry VTT Compatibility**: 0.7.2 to v9
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice! Version 3.0.0+
 
