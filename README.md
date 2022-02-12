@@ -2,7 +2,7 @@
 ## ApertureScienceWCDice
 
 * **Author**: EndlesNights#9000
-* **Version**: 1.0.2
+* **Version**: 1.0.3
 * **Foundry VTT Compatibility**: 0.7.2 to v9
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice! Version 3.0.0+
@@ -28,6 +28,9 @@ Extract the query.zip file to the public/modules directory. Use the `Manage Modu
 
 ### Patch Notes
 
+**Version 1.0.3**
+Fixed Emission maps, the hearts and inner lines should now have a faint pink emission shader.
+
 **Version 1.0.1**
 Updated manifest version to 0.8.5.
 
@@ -36,4 +39,4 @@ Updated manifest version to 0.7.7.
 
 **Version 1.0.0**
 
-Inistial release version.
+Initial release version.
