@@ -1,17 +1,34 @@
 {
-	"name": "wcube",
+	"id": "wcube",
 	"title": "Dice So Nice - Weighted Companion Cube Dice Set",
 	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"minimumCoreVersion": "0.7.2",
-	"compatibleCoreVersion": "9",
+	"compatibleCoreVersion": "11",
+	"compatibility": {
+		"minimum": "0.7.2",
+		"verified": "11"
+	},
 	"author": "EndlesNights",
+	"authors": [
+		{
+			"name": "EndlesNights"
+		}
+	],
 	"dependencies": [
 		{
 			"type": "module",
 			"name": "dice-so-nice"
 		}
 	],
+	"relationships": {
+		"requires": [
+			{
+				"type": "module",
+				"id": "dice-so-nice"
+			}
+		]
+	},
 	"scripts": [
 		"wcube.js"
 	],
