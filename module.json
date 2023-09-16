@@ -1,5 +1,6 @@
 {
 	"id": "wcube",
+	"name": "wcube",
 	"title": "Dice So Nice - Weighted Companion Cube Dice Set",
 	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
 	"version": "1.0.5",
