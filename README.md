@@ -2,8 +2,8 @@
 ## ApertureScienceWCDice
 
 * **Author**: EndlesNights#9000
-* **Version**: 1.0.3
-* **Foundry VTT Compatibility**: 0.7.2 to v9
+* **Version**: 1.0.5
+* **Foundry VTT Compatibility**: 0.7.2 to v11
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice! Version 3.0.0+
 
@@ -27,6 +27,10 @@ Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube t
 Extract the query.zip file to the public/modules directory. Use the `Manage Modules` in your World on the Settings tab of the sidebar on the right and then enable the `DsN - Weighted Companion Cube Dice Set` module.
 
 ### Patch Notes
+
+**Version 1.0.5**
+Updated manifest version to v11.
+Changed download link
 
 **Version 1.0.3**
 Fixed Emission maps, the hearts and inner lines should now have a faint pink emission shader.
