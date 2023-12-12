@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Foundry-v9.242-informational)
+![](https://img.shields.io/badge/Foundry-v11.315-informational)
 ## ApertureScienceWCDice
 
 * **Author**: EndlesNights#9000
