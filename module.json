@@ -3,12 +3,12 @@
 	"name": "wcube",
 	"title": "Dice So Nice - Weighted Companion Cube Dice Set",
 	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"minimumCoreVersion": "0.7.2",
-	"compatibleCoreVersion": "11",
+	"compatibleCoreVersion": "13",
 	"compatibility": {
 		"minimum": "0.7.2",
-		"verified": "11"
+		"verified": "13"
 	},
 	"author": "EndlesNights",
 	"authors": [
@@ -35,5 +35,5 @@
 	],
 	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
 	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/archive/1.0.5.zip"
+	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/archive/1.0.6.zip"
 }
